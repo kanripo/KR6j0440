@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:34.275248
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:10
 #+TITLE: 千臂軍荼利梵字真言
 #+PROPERTY: CBETA_ID T21n1213
 #+PROPERTY: ID KR6j0440
